@@ -7,14 +7,17 @@ lang: de
 
 [Support](support.html) · [Impressum](impressum.html)
 
-Stand: [DATUM]
+Stand: 14.11.2026
 
 ## Kurz gesagt
 Light Rider erhebt keine personenbezogenen Daten. Das Spiel hat kein Konto, keine eigenen Server, keine Analyse, keine Werbung und kein Tracking. Deine Einstellungen bleiben auf deinem Gerät. Das Online-Spiel läuft über Apples Game Center.
 
 ## Verantwortlicher
-[VOR- UND NACHNAME], [STRASSE UND HAUSNUMMER], [PLZ ORT], [LAND]
-E-Mail: [EMAIL]
+Niclas Günther
+Spießstraße 63
+63071 Offenbach am Main
+Deutschland
+E-Mail: support@the-hack.de
 
 ## Daten auf deinem Gerät
 Light Rider speichert nur auf deinem Gerät:
@@ -45,7 +48,7 @@ Light Rider erhebt von niemandem personenbezogene Daten, auch nicht von Kindern.
 Wir speichern keine personenbezogenen Daten; es gibt daher nichts, was wir aufbewahren oder löschen müssten. Die Daten auf deinem Gerät werden mit der App gelöscht.
 
 ## Deine Rechte
-Nach der DSGVO hast du das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht, eine Einwilligung jederzeit zu widerrufen. Da wir keine Daten über dich haben, finden solche Anfragen in der Regel keine Daten; du kannst uns aber jederzeit unter [EMAIL] erreichen. Außerdem hast du das Recht, dich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
+Nach der DSGVO hast du das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht, eine Einwilligung jederzeit zu widerrufen. Da wir keine Daten über dich haben, finden solche Anfragen in der Regel keine Daten; du kannst uns aber jederzeit unter support@the-hack.de erreichen. Außerdem hast du das Recht, dich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
 
 ## Diese Website
 Diese Seiten werden von GitHub Pages (GitHub, Inc., USA) bereitgestellt. Beim Aufruf verarbeitet GitHub deine IP-Adresse und technische Zugriffsdaten, um die Seite auszuliefern (Art. 6 Abs. 1 lit. f DSGVO); siehe die [Datenschutzerklärung von GitHub](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). Die Seiten setzen keine Cookies und nutzen keine Analyse.

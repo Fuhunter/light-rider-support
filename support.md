@@ -11,9 +11,8 @@ lang: de
 
 Fragen, Fehlerberichte, Feedback und Ideen sind willkommen.
 
-- **E-Mail:** [EMAIL]
-- **Telefon:** [TELEFON]
-- **Anschrift:** [VOR- UND NACHNAME], [STRASSE UND HAUSNUMMER], [PLZ ORT], [LAND]
+- **E-Mail:** support@the-hack.de
+- **Anschrift:** Niclas Günther, Spießstraße 63, 63071 Offenbach am Main, Deutschland
 
 Wir antworten meist innerhalb weniger Tage, auf Deutsch oder Englisch.
 

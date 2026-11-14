@@ -6,16 +6,15 @@ title: Light Rider – Impressum
 
 Angaben gemäß § 5 DDG
 
-[VOR- UND NACHNAME]
-[STRASSE UND HAUSNUMMER]
-[PLZ ORT]
-[LAND]
+Niclas Günther
+Spießstraße 63
+63071 Offenbach am Main
+Deutschland
 
 **Kontakt**
-E-Mail: [EMAIL]
-Telefon: [TELEFON]
+E-Mail: support@the-hack.de
 
-**Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:** [VOR- UND NACHNAME], Anschrift wie oben.
+**Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:** Niclas Günther, Anschrift wie oben.
 
 [Support](support.html) · [Datenschutzerklärung](datenschutz.html)
 
